@@ -27,7 +27,6 @@ enu = pygame.image.load('images/vrag1.png')
 enu2 = pygame.image.load('images/vrag2.png')
 enu3 = pygame.image.load('images/vrag3.png')
 e = pygame.image.load('images/e.png')
-bb = pygame.image.load('images/bboom.png')
 e_rect = e.get_rect()
 e_rect.width = e_rect.height
 slide_rect = e.get_rect()
